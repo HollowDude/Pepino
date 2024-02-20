@@ -1,2 +1,6 @@
 # ED1Lab4
-ED1_Lab4
+Colaboradores:
+Dario Roque Amaro
+Xavier
+Yaidel
+Bianco
